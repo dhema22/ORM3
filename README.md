@@ -1,2 +1,3 @@
 # ORM3
-Persistir arreglos de objetos 
+Persistir en una base de datos arreglos de objetos que contienen objetos 
+
