@@ -30,13 +30,7 @@ class Recoger ():
             "color":self.color,
             }
     
-    def inventarioSerializadoDos(self):
-        return{
-            "posicionX":self.posx,
-            "posiciony":self.posy,
-            "color":self.color,
-            }
-
+    
 class Comida():
     def __init__(self):
         self.desayuno=random.randint(0,1)
